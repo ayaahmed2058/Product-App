@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RetrofitTask</string>
+    <string name="title">"Title "</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="brand">Brand</string>
+    <string name="addToFav">Add To Favorite</string>
+    <string name="delete">Delete From Favorite</string>
+    <string name="all_product">All Product</string>
+    <string name="fav_product">Favorite Product</string>
+    <string name="exit">Exit</string>
+</resources>
